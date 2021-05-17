@@ -1,4 +1,0 @@
-C:/Users/Snappy/CLionProjects/mirna/cmake-build-debug/CMakeFiles/SHARED.dir
-C:/Users/Snappy/CLionProjects/mirna/cmake-build-debug/CMakeFiles/mirna.dir
-C:/Users/Snappy/CLionProjects/mirna/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Snappy/CLionProjects/mirna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
